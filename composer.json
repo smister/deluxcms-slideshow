@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-		"deluxcms/media" : "*",
+		"deluxcms/media" : "*"
     },
     "autoload": {
         "psr-4": { "deluxcms\\slideshow\\": "" }
